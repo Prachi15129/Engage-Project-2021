@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921982198987",
+    "project_id": "quizitup-c3714",
+    "storage_bucket": "quizitup-c3714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921982198987:android:f99dce12a9e1e87738e74e",
+        "android_client_info": {
+          "package_name": "com.prachi.quizitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921982198987-d9nmp6vkp1pgqju4c601oenqca1ujkcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BjBS3cdV_Ya6DL9qpujYiQfHIlJjABk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921982198987-d9nmp6vkp1pgqju4c601oenqca1ujkcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
