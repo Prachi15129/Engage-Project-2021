@@ -3,6 +3,9 @@
 •	The application uses firebase authentication using email id and password.<br />
 •	The data of the quiz is maintained on firestore.
 # Installation Guide
+google drive link for .apk file-<br />
+[link to google drive] (https://drive.google.com/file/d/1ClkjsPyoWdqKeLBipzxonXOwzERly-Ag/view?usp=sharing) <br />
+OR<br />
 •	Simply go to the app release section of this repository and download the .apk file.<br />
 o	OR<br />
 •	Clone the master branch and open in your android studio.<br />
